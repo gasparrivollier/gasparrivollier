@@ -4,7 +4,7 @@ I have experience working with Low Code Application (LCAP) technologies such as 
 
 I am mostly focused on process improvement using both data analysis and low code development, for fast and impactful projects. 
 
-I have knowledge about SQL, Python and C#. I have worked on personal projects with all of these technologies, which you can find in this repository. 
+I have knowledge about SQL, Python and C# (Specially with Unity). I have worked on personal projects with all of these technologies, which you can find in this repository. 
 
 Feel free to reach me at LinkedIn at <a href="https://www.linkedin.com/in/gaspar-rivollier/">/gaspar-rivollier</a>
 
