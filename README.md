@@ -1,4 +1,4 @@
-Hey! My name is Gaspar Rivollier. I'm an Industrial Engineering student close to graduation (projected early 2024) in the Universidad Tecnológica Nacional (UTN)(Buenos Aires).
+Hey! My name is Gaspar Rivollier. I'm an Industrial Engineer of the Universidad Tecnológica Nacional (National Technological University. UTN)(Buenos Aires).
 
 I have experience working with Low Code Application (LCAP) technologies such as Power Platform (Power Apps and Power Automate), RPA (BluePrism and Power Automate Desktop). My experience has been developed mainly in the manufacturing industry. 
 
